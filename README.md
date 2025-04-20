@@ -16,8 +16,7 @@ SUV introduces a selective unlearning framework that:
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
-cd release_version
+git clone https://github.com/xz-liu/SUV.git
 ```
 
 2. Install dependencies:
